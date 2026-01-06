@@ -1,6 +1,5 @@
 # cybersecurity-writeups
 
-# Cybersecurity Writeups (Learning Portfolio)
 
 This repository contains selected writeups from hands-on cybersecurity labs (TryHackMe and PortSwigger).
 My focus is on fundamentals, methodology, and clear documentation (not just tools/payloads).
